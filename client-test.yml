@@ -9,3 +9,4 @@ server:
   port: 8081
 evn:
   test
+label: release
