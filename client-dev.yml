@@ -9,3 +9,6 @@ server:
   port: 8083
 env: 
   dev3
+girl:
+  name: doudou
+  age: 18
