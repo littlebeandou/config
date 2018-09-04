@@ -8,4 +8,4 @@ eureka:
 server:
   port: 8082
 env: 
-  dev3
+  dev2
